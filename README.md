@@ -18,5 +18,10 @@
   <img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-## 🎀 ៸៸ ꒰Portafolio ꒱ 彡 ·˚
+## 🎀 ៸៸ ꒰ CV ꒱ 彡 ·˚
+<a href="(https://drive.google.com/file/d/1SfjDT5xRgmJBGMc1-8amgu8hkZUSekGM/view?usp=sharing)" target="_blank">
+  <img src="https://img.shields.io/badge/Curriculum-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+## 🎀 ៸៸ ꒰ Portafolio ꒱ 彡 ·˚
  En proceso... 💻
