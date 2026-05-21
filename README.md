@@ -12,6 +12,15 @@ Aunque me encuentro en una etapa inicial de mi trayectoria profesional, me carac
 
 Actualmente continúo fortaleciendo mis habilidades en tecnologías frontend y herramientas de desarrollo, siempre con la motivación de crecer profesionalmente, aportar valor y enfrentar nuevos desafíos en el mundo tecnológico. ✨
 
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fernandacx21&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFC0CB&text_color=FFFFFF&bg_color=0D1117&border_color=FF69B4"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&border_color=FF69B4"/>
+
+</div>
+
+
 ## 🎀 ៸៸ ꒰ Lenguajes, tecnologias y herramientas ꒱ 彡 ·˚
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-FF1493?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-FFB6C1?style=for-the-badge&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-FF1493?style=for-the-badge&logo=npm&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=database&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-FF1493?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-FF1493?style=for-the-badge&logo=canva&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=gitHub&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FFB6C1?style=for-the-badge&logo=postman&logoColor=white) 
