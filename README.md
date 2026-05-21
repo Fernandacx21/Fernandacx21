@@ -1,8 +1,8 @@
 <img width="854" height="120" alt="image" src="https://github.com/user-attachments/assets/432188f4-0283-475a-97ca-caa4643cb2b5" />
 
-<div align="center">
-##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76EDD&width=435&lines=👩🏻‍💻Desarrolladora+Front+end👩🏻‍💻)](https://git.io/typing-svg)
-</div>
+
+##                          [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76EDD&width=435&lines=👩🏻‍💻Desarrolladora+Front+end👩🏻‍💻)](https://git.io/typing-svg)
+
 
 ## 🎀 ៸៸ ꒰ Sobre mi ꒱ 彡 ·˚
 
