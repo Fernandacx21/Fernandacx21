@@ -1,4 +1,4 @@
-<img width="854" height="120" alt="image" src="https://github.com/user-attachments/assets/432188f4-0283-475a-97ca-caa4643cb2b5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
 
 ##                          [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76EDD&width=435&lines=👩🏻‍💻Desarrolladora+Front+end👩🏻‍💻)](https://git.io/typing-svg)
@@ -13,10 +13,11 @@ Aunque me encuentro en una etapa inicial de mi trayectoria profesional, me carac
 Actualmente continúo fortaleciendo mis habilidades en tecnologías frontend y herramientas de desarrollo, siempre con la motivación de crecer profesionalmente, aportar valor y enfrentar nuevos desafíos en el mundo tecnológico. ✨
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandacx21&theme=rose_pine"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandacx21&theme=rose_pine"/>
 </div>
+
+
 
 ## 🎀 ៸៸ ꒰ Lenguajes, tecnologias y herramientas ꒱ 彡 ·˚
 
