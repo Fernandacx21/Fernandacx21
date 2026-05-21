@@ -19,7 +19,7 @@
 </a>
 
 ## 🎀 ៸៸ ꒰ CV ꒱ 彡 ·˚
-<a href="(https://drive.google.com/file/d/1SfjDT5xRgmJBGMc1-8amgu8hkZUSekGM/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/1SfjDT5xRgmJBGMc1-8amgu8hkZUSekGM/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Curriculum-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
