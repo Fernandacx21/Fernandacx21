@@ -14,9 +14,9 @@ Actualmente continúo fortaleciendo mis habilidades en tecnologías frontend y h
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fernandacx21&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFC0CB&text_color=FFFFFF&bg_color=0D1117&border_color=FF69B4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandacx21&theme=rose_pine"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandacx21&layout=compact&theme=radical&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117&border_color=FF69B4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandacx21&theme=omni"/>
 
 </div>
 
