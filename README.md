@@ -5,6 +5,12 @@
 
 
 ## 🎀 ៸៸ ꒰ Sobre mi ꒱ 彡 ·˚
+💖 Frontend Developer apasionada por crear interfaces modernas, intuitivas y visualmente atractivas. 
+Soy egresada en Ingeniería en Desarrollo y Gestión de Software, con entusiasmo por transformar ideas en experiencias digitales funcionales y creativas.
+
+Aunque me encuentro en una etapa inicial de mi trayectoria profesional, me caracterizo por mi iniciativa, pensamiento analítico y constante deseo de aprendizaje. Disfruto desarrollar soluciones eficientes, cuidar los detalles visuales y colaborar en equipo para construir aplicaciones innovadoras.
+
+Actualmente continúo fortaleciendo mis habilidades en tecnologías frontend y herramientas de desarrollo, siempre con la motivación de crecer profesionalmente, aportar valor y enfrentar nuevos desafíos en el mundo tecnológico. ✨
 
 ## 🎀 ៸៸ ꒰ Lenguajes, tecnologias y herramientas ꒱ 彡 ·˚
 
