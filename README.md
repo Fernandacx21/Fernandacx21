@@ -16,7 +16,6 @@ Actualmente continúo fortaleciendo mis habilidades en tecnologías frontend y h
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandacx21&theme=rose_pine"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandacx21&theme=omni"/>
 
 </div>
 
