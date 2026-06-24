@@ -37,4 +37,4 @@ Actualmente continúo fortaleciendo mis habilidades en tecnologías frontend y h
 </a>
 
 ## 🎀 ៸៸ ꒰ Portafolio ꒱ 彡 ·˚
- En proceso... 💻
+ (https://portafolio-fernanda.netlify.app/)
